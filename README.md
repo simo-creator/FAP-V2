@@ -4,7 +4,7 @@ FAKE ACCES POINTS CREATOR SCRIPT     VERSION-2
 
 ## REQUIREMENTS
 ***
--Linux OS(kali,parrot....)
+-Any Linux distributions(kali,parrot,arch....)
 -Network Adapter
 ***
 ## HOW TO RUN THE SCRIPT
