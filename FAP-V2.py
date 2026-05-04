@@ -50,7 +50,7 @@ def script():
             os.system("airmon-ng stop "+inter)
             os.system("systemctl restart NetworkManager")
             os.system("clear")
-            print(Fore.GREEN +"IF YOU HAVE A PROBLEMS IN THE INTERNET CONNECTION RESTART YOU'RE OS")
+            print(Fore.GREEN +"IF YOU HAVE A PROBLEMS IN THE INTERNET CONNECTION REBOOT YOU'RE SYSTEM")
             print("\n\nTHANK YOU FOR USING MY TOOL :)")
             break
         else:
